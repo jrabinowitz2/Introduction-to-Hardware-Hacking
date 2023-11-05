@@ -2,4 +2,4 @@
 
 **Introduction-to-Hardware-Hacking**
 
-Slide deck for training course delivered to KSA during October 2023
+Slide deck from training course delivered to KSA during October 2023
