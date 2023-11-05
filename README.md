@@ -3,3 +3,16 @@
 **Introduction-to-Hardware-Hacking**
 
 Slide deck from training course delivered to KSA during October 2023
+
+Concepts covered:
+* State of HW Security
+* Device Teardown
+* PCB Analysis
+* Component/Datasheet Lookup
+* Integrated Circuits
+* External Interfaces (UART, JTAG, SPI, etc.)
+* Boot Security (U-boot)
+* On-Chip Debugging
+* Datasheet Analysis
+* Firmware Extraction/Analysis
+* Threat Modeling
